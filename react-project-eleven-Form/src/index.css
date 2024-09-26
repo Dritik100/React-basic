@@ -1,0 +1,13 @@
+
+body{
+  margin: 0;
+  padding: 0;
+  background-color: rgba(128, 128, 128, 0.647);
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center; 
+  align-items: center;   
+  height: 100vh; 
+ 
+
+}

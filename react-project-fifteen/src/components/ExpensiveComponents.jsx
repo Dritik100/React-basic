@@ -15,7 +15,7 @@ const ExpensiveComponents = () => {
     return result;
   }, [count]);
 
-    useEffect(() => {
+    useEffect (() => {
      if(perviousFunction.current){
       if(perviousFunction.current === expensiveCalculation){
         console.log("Function not re-created");
